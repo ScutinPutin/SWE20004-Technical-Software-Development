@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571804235 source:c:\users\jakea\desktop\computer science\technical software development\lab test 2\lab test 2\main.cpp
+	<iostream>
+	<fstream>
+

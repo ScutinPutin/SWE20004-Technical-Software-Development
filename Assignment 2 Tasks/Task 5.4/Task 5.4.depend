@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569986059 source:c:\users\jakea\desktop\computer science\technical software development\lab5\task 5.4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1570714138 source:c:\users\jake\desktop\computer science\technical software development\assignment 2 tasks\task 5.4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569988203 source:c:\users\jakea\desktop\computer science\technical software development\lab7\task 7.4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

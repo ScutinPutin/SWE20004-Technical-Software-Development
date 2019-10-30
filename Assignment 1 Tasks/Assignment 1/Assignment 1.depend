@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567747320 source:c:\users\jakea\desktop\computer science\technical software development\assignment 1\assignment 1\main.cpp
+	<iostream>
+	<cmath>
+	<sstream>
+	<string>
+

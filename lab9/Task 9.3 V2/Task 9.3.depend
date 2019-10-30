@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571641166 source:c:\users\jake\desktop\computer science\technical software development\lab9\task 9.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+

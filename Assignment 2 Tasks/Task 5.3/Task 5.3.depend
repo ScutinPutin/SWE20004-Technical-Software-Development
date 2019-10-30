@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567566758 source:c:\users\jakea\desktop\computer science\technical software development\lab5\task 5.3\main.cpp
+	<iostream>
+	<cstdlib>
+
+1570714169 source:c:\users\jake\desktop\computer science\technical software development\assignment 2 tasks\task 5.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

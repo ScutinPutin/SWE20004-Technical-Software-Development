@@ -1,0 +1,10 @@
+Zoon 1 50.2
+Jake 2 70.5
+Scoot 3 99.5
+Apple 4 75.4
+Poop 5 40
+Boom 6 77
+Eggo 7 33.9
+Leggo 8 66.6
+Meggo 9 77.7
+Scoop 9 77.2

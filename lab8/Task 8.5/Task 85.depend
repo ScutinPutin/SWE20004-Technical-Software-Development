@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570593024 source:c:\users\jake\desktop\computer science\technical software development\lab8\task 8.5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

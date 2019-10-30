@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569382545 source:c:\users\jakea\desktop\computer science\technical software development\lab6\task 7.3\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cctype>
+	<clocale>
+

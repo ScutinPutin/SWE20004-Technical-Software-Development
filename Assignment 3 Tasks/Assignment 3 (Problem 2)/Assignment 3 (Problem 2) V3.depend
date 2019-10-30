@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572282178 source:c:\users\jake\desktop\computer science\technical software development\assignment 3 tasks\assignment 3 (problem 2) v3\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1572435967 source:c:\users\jake\desktop\computer science\technical software development\assignment 3 tasks\assignment 3 (problem 2)\main.cpp
+	<iostream>
+	<fstream>
+
